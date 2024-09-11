@@ -34,8 +34,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor =
-- [x] Operador de contatenação +
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de contatenação: +
+- [x] Operadores de comparação: == != <= >= < >
 
 ## Estrutura de dados:
 
@@ -63,6 +64,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 # Condicionais
 
 - [x] Switch
+- [x] If/Else
 
 ## Módulos em Node.js:
 
