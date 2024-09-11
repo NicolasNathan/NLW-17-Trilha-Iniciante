@@ -55,3 +55,7 @@ Apresentar os dados
 - [x] Executar
 - [x] Arrow function: const criarMeta = () => {}
 - [x] Named function: function criarMeta () {}
+
+# Estrutura de repetição
+
+- [x] While
